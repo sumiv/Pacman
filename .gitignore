@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# additional mac stuff
+.DS_Store
+.Spotlight-V100
+.Trashes
+.AppleDouble
+Icon?
+
